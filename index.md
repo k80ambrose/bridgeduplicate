@@ -8,7 +8,7 @@
        </head>
 <body>
 <center>
-<h1>Bridge Club<sub><em>at the University of Chicago</em></sub></h1>
+<h1>Bridge Club<sub><em>Applesauce</em></sub></h1>
 </center><nav>
 <ul>
 <li><a href="main/about">about us</a></li>
